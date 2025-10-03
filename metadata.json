@@ -1,0 +1,5 @@
+{
+  "name": "REDMOON MIT Fashion Survey",
+  "description": "An interactive multi-stage survey for REDMOON to gather fashion preferences from the MIT community, featuring T-shirt design selection, preference questions, and user registration.",
+  "requestFramePermissions": []
+}
